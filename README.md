@@ -1,4 +1,5 @@
-![alt text](./screenshot.png)
+![alt text](./screenshot-white.png)
+[View demo](https://wwwannes.github.io/Glitch/)
 
 # Glitch
 A simple 3D object that glitches
